@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var Publisher = /*#__PURE__*/(() => {\n  (function (Publisher) {\n    Publisher[\"DCComics\"] = \"DC Comics\";\n    Publisher[\"MarvelComics\"] = \"Marvel Comics\";\n  })(Publisher || (Publisher = {}));\n  return Publisher;\n})();","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

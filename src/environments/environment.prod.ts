@@ -1,3 +1,5 @@
+
 export const environment = {
-  production: true
+  baseUrl: 'http://servidorProduccion.com/api'
+  //production: false
 };
